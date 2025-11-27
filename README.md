@@ -23,10 +23,6 @@ This backend application handles all core operations, including user authenticat
 | **Runtime** | **Node.js** | The execution environment. |
 | **Web Framework** | **Express.js** | Fast, minimalist framework for API development. |
 | **Database** | **MongoDB** | NoSQL database for flexible data modeling. |
-| **ODM** | **Mongoose** | Object Data Modeling library for MongoDB and Node.js. |
-| **Authentication** | **JWT (JSON Web Tokens)** | Secure method for transmitting information between parties. |
-| **Utilities** | **Bcryptjs, dotenv, CORS** | Password hashing, environment management, and cross-origin handling. |
-
 ---
 
 ## 📦 API Endpoints
